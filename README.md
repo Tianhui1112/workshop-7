@@ -2,7 +2,7 @@
 
 You can view the generated effect by visiting the following link:
 
-[View Workshop 7 Effect](  https://tianhui1112.github.io/workshop-5/)
+[View Workshop 7 Effect]( https://tianhui1112.github.io/workshop-7/)
 
 
 ## My Idea
